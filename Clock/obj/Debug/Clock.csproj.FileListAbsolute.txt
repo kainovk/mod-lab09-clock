@@ -1,0 +1,10 @@
+C:\Users\Kirill\Source\Repos\mod-lab09-clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\Kirill\Source\Repos\mod-lab09-clock\Clock\bin\Debug\Clock.exe
+C:\Users\Kirill\Source\Repos\mod-lab09-clock\Clock\bin\Debug\Clock.pdb
+C:\Users\Kirill\Source\Repos\mod-lab09-clock\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\Kirill\Source\Repos\mod-lab09-clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\Kirill\Source\Repos\mod-lab09-clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\Kirill\Source\Repos\mod-lab09-clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Source\Repos\mod-lab09-clock\Clock\obj\Debug\Clock.exe
+C:\Users\Kirill\Source\Repos\mod-lab09-clock\Clock\obj\Debug\Clock.pdb
+C:\Users\Kirill\Source\Repos\mod-lab09-clock\Clock\obj\Debug\Clock.Form1.resources
